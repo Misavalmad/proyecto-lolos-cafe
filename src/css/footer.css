@@ -2,7 +2,7 @@
   padding: 60px 20px;
   border-top: 1px solid #e5e5e5;
   background: #ffffff;
-  font-family: 'Inter', sans-serif;
+  
 }
 
 .footer-wrapper {
@@ -109,4 +109,5 @@
   .footer-grid {
     grid-template-columns: 1fr;
   }
+
 }
